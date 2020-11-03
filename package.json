@@ -1,0 +1,18 @@
+{
+  "name": "bylandregistry",
+  "version": "1.0.0",
+  "description": "Bayelsa State Distributed Land Registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "DisBYLRS"
+  },
+  "keywords": [
+    "DBYLRS"
+  ],
+  "author": "Thompson",
+  "license": "ISC"
+}
